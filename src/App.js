@@ -25,7 +25,7 @@ class App extends React.Component {
           <Route path="/quotes">
             <Quotes />
           </Route>
-    </Switch>
+        </Switch>
       </div>
     );
   }
