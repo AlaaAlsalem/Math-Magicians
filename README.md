@@ -5,6 +5,7 @@
 
 # Live demo
 >  [heroku](https://aladdinmathmagicianss.herokuapp.com/)
+>  [Netlify](https://agitated-volhard-2c809e.netlify.app/)
 
 # Getting Started
 
